@@ -6,20 +6,20 @@
 	🚀 Semana OmniStack 11.0
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/xLougans/BeTheHero?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/xLougans/bethehero-frontend?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/xLougans/BeTheHero">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/xLougans/bethehero-frontend">
 	
   <a href="https://www.linkedin.com/in/lougandematos/">
     <img alt="Made by Lougans de Matos" src="https://img.shields.io/badge/made%20by-Lougans de Matos-%2304D361">
   </a>
 
-  <a href="https://github.com/xLougans/BeTheHero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xLougans/BeTheHero">
+  <a href="https://github.com/xLougans/bethehero-frontend/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xLougans/bethehero-frontend">
   </a>
 
-  <a href="https://github.com/xLougans/BeTheHero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/xLougans/BeTheHero">
+  <a href="https://github.com/xLougans/bethehero-frontend/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/xLougans/bethehero-frontend">
   </a>
 <a aria-label="Completed" href="https://rocketseat.com.br/week/inscricao/11.0">
     <img src="https://img.shields.io/badge/OmniStack 11-done-green?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
